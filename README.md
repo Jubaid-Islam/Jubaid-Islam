@@ -15,7 +15,7 @@
 ## Current Goals
 
 - Working on: **Building scalable frontend applications with React and Tailwind CSS**
-- Learning: **TypeScript, System Design, and Frontend Architecture**
+- Learning: **TypeScript, System Design and Frontend Architecture**
 - Exploring: **Performance optimization and product-focused frontend development**
 - Reach me at: **jubaid20062@gmail.com**
 
